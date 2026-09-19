@@ -1,0 +1,19 @@
+site_name: Basket Trading
+
+theme:
+  name: material
+
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+
+extra_css:
+  - stylesheets/extra.css

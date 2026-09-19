@@ -1,0 +1,28 @@
+/* =========================================================
+   Strategy Data Management - Data Flow
+   ========================================================= */
+
+.data-flow {
+  width: 100%;
+  margin: 24px 0 30px;
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+}
+
+.data-flow pre {
+  margin: 0;
+  padding: 20px 30px;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  line-height: 1.45;
+  color: inherit;
+  white-space: pre;
+}
+
+.data-flow code {
+  background: transparent;
+}
